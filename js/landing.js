@@ -187,7 +187,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // EDITAR: si cambias el precio regular o el tachado en config.js,
     // actualiza también este porcentaje del badge de descuento.
     var badgeEl = document.getElementById("barra-fija-badge");
-    if (badgeEl) badgeEl.textContent = "-19%";
+    if (badgeEl) badgeEl.textContent = "-15%";
   }
 
   // Inicializar barra fija con valores por defecto

@@ -35,7 +35,7 @@ const CONFIG = {
   // Se vende de a una sola unidad, a precio único (sin descuento
   // por cantidad y sin variantes de color).
   PRODUCTO_NOMBRE: "Elevador de Paneles de Drywall",
-  PRECIO_REGULAR: 529.00,
+  PRECIO_REGULAR: 550.00,
   PRECIO_TACHADO: 650.00,
 
   // ----------------------------------------------------------
