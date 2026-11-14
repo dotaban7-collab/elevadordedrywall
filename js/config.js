@@ -24,7 +24,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   // Número donde llegarán los pedidos.
   // Formato: código de país + número, SIN "+", espacios ni guiones.
-  WHATSAPP_NUMERO: "51923757221",
+  WHATSAPP_NUMERO: "51927404188",
 
   // Nombre de la tienda (aparece en el mensaje de WhatsApp)
   TIENDA_NOMBRE: "Mr. Barril Store",
